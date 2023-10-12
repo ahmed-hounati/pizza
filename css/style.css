@@ -18,7 +18,7 @@
 }
 
 body {
-  background-image: url(/images/woodbg.png);
+  background-image: url(../images/woodbg.png);
   background-size: 100%;
   overflow-x: hidden;
 }
