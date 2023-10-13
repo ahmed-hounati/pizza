@@ -259,6 +259,7 @@ h2 {
   text-align: center;
   padding: 14px 30px;
   border-radius: 15px;
+  border: 2px solid var(--main-color);
   background: transparent;
   color: var(--main-color);
   top: 6px;
